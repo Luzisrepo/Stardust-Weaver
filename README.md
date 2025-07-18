@@ -70,7 +70,7 @@ stardust-weave/
 ## 🧑‍🚀 Author
 
 **Rayzz**
-[GitHub Profile →](https://github.com/rayzz)
+[GitHub Profile →](https://github.com/luzisrepo)
 
 ---
 
